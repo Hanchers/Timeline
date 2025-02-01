@@ -8,7 +8,7 @@ module.exports = {
     "port": 8080,
     "https": false,
     "hotOnly": true,
-    "proxy": "http://sitetest.arkrdigital.com"
+    "proxy": "https://timeline.hancher.top"
   },
   "transpileDependencies": [
     "vuetify"

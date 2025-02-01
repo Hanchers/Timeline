@@ -1,16 +1,15 @@
 <h1>历史时间线</h1>
 
-<a href="http://gonnavis.com/timeline/" target="_blank">在线演示 (时间线及三维地图) Demo 3D</a>
+<a href="https://timeline.hancher.top/" target="_blank">在线演示 (时间线及三维地图) Demo 3D</a>
 <br/>
-<a href="http://gonnavis.com/timeline/twha/" target="_blank">在线演示twha版 (平面地图) Demo 2D</a>
+<a href="https://timeline.hancher.top/twha/index.html" target="_blank">在线演示twha版 (平面地图) Demo 2D</a>
 
 <h3>简介</h3>
 <p>直观地显示各个历史时间段及历史地图。</p>
 
-<!-- <img src="http://gonnavis.com/timeline/preview2.png"> -->
-<img src="https://raw.githubusercontent.com/gonnavis/Timeline/master/other/screenshoot.png">
-<img src="https://raw.githubusercontent.com/gonnavis/Timeline/master/other/screenshoot_2.jpg">
-<img src="https://raw.githubusercontent.com/gonnavis/Timeline/master/other/screenshoot_twha.jpg">
+因[原项目](https://github.com/gonnavis/Timeline)网站已经不能访问了，所以重新编译了一下，挂到服务器上供大家使用。
+
+
 
 <h3>运行</h3>
 <p>

@@ -81,9 +81,7 @@
           <v-list-item>
             <v-list-item-content>
               <v-list-item-title>
-                <a href="https://gitee.com/gonnavis/Timeline" target="_blank">gitee</a>
-                &nbsp;&nbsp;&nbsp;
-                <a href="https://github.com/gonnavis/Timeline" target="_blank">github</a>
+                <a href="https://github.com/Hanchers/Timeline" target="_blank">github</a>
               </v-list-item-title>
             </v-list-item-content>
           </v-list-item>
@@ -105,16 +103,11 @@
               <v-list-item-subtitle>时间线和地图 / 纯地图 / 纯时间线</v-list-item-subtitle>
             </v-list-item-content>
           </v-list-item>
+
           <v-list-item>
             <v-list-item-content>
-              <v-list-item-title>QQ群</v-list-item-title>
-              <v-list-item-subtitle>680915237</v-list-item-subtitle>
-            </v-list-item-content>
-          </v-list-item>
-          <v-list-item>
-            <v-list-item-content>
-              <v-list-item-title>邮箱</v-list-item-title>
-              <v-list-item-subtitle>gonnavis@163.com</v-list-item-subtitle>
+              <v-list-item-title>本人博客</v-list-item-title>
+              <a href="https://www.hancher.top" target="_blank">寒澈笔记</a>
             </v-list-item-content>
           </v-list-item>
         </v-list>
@@ -286,7 +279,7 @@ export default {
     // throttled_update_twha_canvas:update_twha_canvas,
     goto_twha() {
       let s = this
-      if (confirm('目前只支持pc访问, 确认跳转?')) window.open('http://gonnavis.com/timeline/twha')
+      if (confirm('目前只支持pc访问, 确认跳转?')) window.open('https://timeline.hancher.top/twha/index.html')
     },
     toggle_map() {
       let s = this
